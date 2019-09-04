@@ -1,4 +1,5 @@
 import React from "react";
+import './src/index.less';
 import ReactDom from "react-dom";
 const App = () => {
     return (
